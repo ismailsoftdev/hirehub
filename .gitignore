@@ -85,7 +85,11 @@ coverage.xml
 .hypothesis/ 
 
 # Jupyter Notebook 
-.ipynb_checkpoints 
+.ipynb_checkpoints
+
+node_modules/
+package-lock.json
+package.json
 
 # pyenv 
 .python-version 
